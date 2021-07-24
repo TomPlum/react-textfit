@@ -1,6 +1,6 @@
 {
   "name": "@tomplum/react-textfit",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "React component to fit headlines and paragraphs into any element",
   "main": "lib/index.js",
   "types":"index.d.ts",
@@ -43,14 +43,14 @@
     "expect": "^1.6.0",
     "mocha": "^2.2.5",
     "react": "^17.0.2",
-    "react-dom": "^16.0.0",
+    "react-dom": "^17.0.2",
     "rimraf": "^2.3.4",
     "webpack": "^1.9.6",
     "webpack-dev-server": "^1.8.2"
   },
   "peerDependencies": {
-    "react": "^15.0.0 || ^16.0.0",
-    "react-dom": "^15.0.0 || ^16.0.0"
+    "react": "^15.0.0 || ^16.0.0 || ^17.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0 || ^17.0.0"
   },
   "dependencies": {
     "process": "^0.11.10",
