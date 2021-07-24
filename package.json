@@ -1,6 +1,6 @@
 {
-  "name": "react-textfit",
-  "version": "1.1.1",
+  "name": "@tomplum/react-textfit",
+  "version": "1.1.2",
   "description": "React component to fit headlines and paragraphs into any element",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/malte-wessel/react-textfit.git"
+    "url": "https://github.com/tomplum/react-textfit.git"
   },
   "keywords": [
     "textfit",
